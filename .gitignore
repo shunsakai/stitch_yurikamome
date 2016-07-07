@@ -1,0 +1,8 @@
+*.out
+*.txt
+*.mp4
+front_raw/*.jpg
+front_raw/*
+back_raw/*.jpg
+result/*.jpg
+output_0705/*.jpg
